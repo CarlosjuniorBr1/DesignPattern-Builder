@@ -1,8 +1,8 @@
 ## Altere as dependencias 
-  <properties>
+    <properties>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-</properties>
+    </properties>
 
 ## Limpe o maven
   mvn clean install 
